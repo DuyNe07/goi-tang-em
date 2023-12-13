@@ -201,7 +201,7 @@ $(document).ready(function () {
                             $(".message").typed({
                                 strings: [
                                     "❤️ Chào em yêu của anh ❤️",
-                                    "Anh yêu em nhiều lắm và chúc em 1 mùa giáng sinh thật ấm áp trong vòng tay của anh. Nhớ mai dạy sớm mình có dateting với nhau nhá ❤️",
+                                    "Anh xin lỗi vì những lần lơ đãng không quan tâm đến em, anh đã biết và xin lỗi em nhiều. Em đừng buồn nữa nha, anh tặng em 1 trái tim to bự nè. ANH YÊU EM ❤️",
                                 ],
                                 typeSpeed: 100,
                                 startDelay: 500,
